@@ -13,6 +13,7 @@ Implementation of 3DViewer v2.0
    3.1. [Part 1](#part-1-3dviewer-v20) \
    3.2. [Part 2](#part-2-bonus-settings) \
    3.3. [Part 3](#part-3-bonus-record)
+4. [Result](#result)
 
 
 ## Chapter I
@@ -92,3 +93,6 @@ Develop a program to visualise the 3D wireframe models.
 - The program must allow saving the captured (rendered) images as bmp and jpeg files;
 - The program must allow recording small screencasts - the current custom affine transformation of the loaded object into gif-animation (640x480, 10fps, 5s) by a special button.
 
+## Result
+
+![Result](https://github.com/sonikxx/Cpp/blob/main/CPP4_3DViewer_v2.0-3/examle.jpg)
