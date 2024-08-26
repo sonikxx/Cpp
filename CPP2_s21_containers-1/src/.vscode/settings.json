@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tpp": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c"
+    }
+}
