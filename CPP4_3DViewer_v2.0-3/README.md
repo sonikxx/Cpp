@@ -95,4 +95,4 @@ Develop a program to visualise the 3D wireframe models.
 
 ## Result
 
-![Result](https://github.com/sonikxx/Cpp/blob/main/CPP4_3DViewer_v2.0-3/examle.jpg)
+![Result](https://github.com/sonikxx/Cpp/blob/main/CPP4_3DViewer_v2.0-3/example.jpg)
